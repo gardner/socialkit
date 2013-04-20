@@ -1,4 +1,7 @@
 SocialKit::Application.routes.draw do
+  resources :basics
+
+
   resources :organizations
 
 
