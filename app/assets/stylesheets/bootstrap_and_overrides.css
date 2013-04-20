@@ -12,8 +12,32 @@
   text-align: center;
 }
 
+.subtitle {
+  color: #3fc9de;
+  font-size: 1.5em;
+  
+}
+
 .headline {
   color: #cbcbcb;
   font-size: 1.5em;
   text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.spacing {
+  margin-top: 60px;
+}
+
+.grey {
+  background-color: #F5F5F5;
+  min-height: 200px;
+  padding: 20px;
+}
+
+.darkgrey {
+  color: #808080;
 }
