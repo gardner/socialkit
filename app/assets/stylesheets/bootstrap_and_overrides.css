@@ -16,6 +16,12 @@
   color: #3fc9de;
 }
 
+.wizardbtn {
+  margin-top: 100px;
+  margin-left: 80px;
+
+}
+
 .subtitle {
   color: #3fc9de;
   font-size: 1.5em; 
@@ -96,7 +102,7 @@ a:hover {
   margin-right: 40px;
   height: 160px;
   width: 160px;
-  background-color: #eee;
+  background-color: #fff;
   float: left;
 }
  
@@ -108,3 +114,21 @@ a:hover {
   border-style: solid;
   border-color: #22b2c8;
 } 
+
+.various {
+  background-image:url('various.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.debt {
+  background-image:url('debt.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.capital {
+  background-image:url('capital.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}

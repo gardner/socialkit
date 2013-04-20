@@ -9,10 +9,10 @@ socialkit_logo.png: socialkit_logo-862131f938f3206646d4559732ac2f69.png
 socialkit_logo/index.png: socialkit_logo-862131f938f3206646d4559732ac2f69.png
 socialkit_logos.png: socialkit_logos-862131f938f3206646d4559732ac2f69.png
 socialkit_logos/index.png: socialkit_logos-862131f938f3206646d4559732ac2f69.png
-application.js: application-040d929aad3a9179faecf6142b864e3b.js
-application/index.js: application-040d929aad3a9179faecf6142b864e3b.js
-application.css: application-6114f1880b754cf35fa9bf3a4122c885.css
-application/index.css: application-6114f1880b754cf35fa9bf3a4122c885.css
+application.js: application-ee58f03ceaedb2f501c941f134351ad0.js
+application/index.js: application-ee58f03ceaedb2f501c941f134351ad0.js
+application.css: application-fcd74cc34996e22a18e6878b88af3ea2.css
+application/index.css: application-fcd74cc34996e22a18e6878b88af3ea2.css
 fontawesome-webfont.eot: fontawesome-webfont-635909f146e208b3509acdf3b154bf0d.eot
 fontawesome-webfont/index.eot: fontawesome-webfont-635909f146e208b3509acdf3b154bf0d.eot
 fontawesome-webfont.ttf: fontawesome-webfont-6a4e273908b7e43d9e479d38b8ae5957.ttf
