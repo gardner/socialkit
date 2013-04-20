@@ -1,4 +1,6 @@
 ---
+button.png: button-1e1443796e242e8b83b051b73b6eca3b.png
+button/index.png: button-1e1443796e242e8b83b051b73b6eca3b.png
 fb-login-button.png: fb-login-button-5025105b3e993ef754a995de1ddc7187.png
 fb-login-button/index.png: fb-login-button-5025105b3e993ef754a995de1ddc7187.png
 hero.png: hero-deb960f92d7529de9eca134e5f6c9f47.png
@@ -7,10 +9,10 @@ socialkit_logo.png: socialkit_logo-862131f938f3206646d4559732ac2f69.png
 socialkit_logo/index.png: socialkit_logo-862131f938f3206646d4559732ac2f69.png
 socialkit_logos.png: socialkit_logos-862131f938f3206646d4559732ac2f69.png
 socialkit_logos/index.png: socialkit_logos-862131f938f3206646d4559732ac2f69.png
-application.js: application-97ee887efd97001637e29b6ba1a40ce3.js
-application/index.js: application-97ee887efd97001637e29b6ba1a40ce3.js
-application.css: application-2d97ab107163e8e07ae882462041ad98.css
-application/index.css: application-2d97ab107163e8e07ae882462041ad98.css
+application.js: application-040d929aad3a9179faecf6142b864e3b.js
+application/index.js: application-040d929aad3a9179faecf6142b864e3b.js
+application.css: application-6114f1880b754cf35fa9bf3a4122c885.css
+application/index.css: application-6114f1880b754cf35fa9bf3a4122c885.css
 fontawesome-webfont.eot: fontawesome-webfont-635909f146e208b3509acdf3b154bf0d.eot
 fontawesome-webfont/index.eot: fontawesome-webfont-635909f146e208b3509acdf3b154bf0d.eot
 fontawesome-webfont.ttf: fontawesome-webfont-6a4e273908b7e43d9e479d38b8ae5957.ttf
