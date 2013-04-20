@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-RailsBootstrap::Application.config.secret_token = '101eaf84f5e737d001e380a71ef4e344fff54156c8370522df2687e51efd50d81f633fcdd7e3e45ed0ff27106d05cab407d9a4526ec940f0f30075c050e08d65'
+SocialKit::Application.config.secret_token = '101eaf84f5e737d001e380a71ef4e344fff54156c8370522df2687e51efd50d81f633fcdd7e3e45ed0ff27106d05cab407d9a4526ec940f0f30075c050e08d65'
