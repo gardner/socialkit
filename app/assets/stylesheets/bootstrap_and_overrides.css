@@ -12,10 +12,20 @@
   text-align: center;
 }
 
+.guidetitle {
+  color: #3fc9de;
+}
+
 .subtitle {
   color: #3fc9de;
-  font-size: 1.5em;
-  
+  font-size: 1.5em; 
+}
+
+.smallsubtitle {
+  color: #3fc9de;
+  font-size: 1.2em; 
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .headline {
@@ -38,6 +48,63 @@
   padding: 20px;
 }
 
+.blue {
+  background-color: #3fc9de;
+  min-height: 300px;
+  padding: 20px;
+  margin-top: 20px;
+  padding: 40px;
+  margin-bottom: 20px;
+}
+
 .darkgrey {
   color: #808080;
 }
+
+.white {
+  color: #eee;
+}
+.navlink {
+  padding: 40px;
+  color: #808080;
+  text-decoration: none;
+}
+
+.navlink:hover {
+  padding: 40px;
+  color: #808080;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.breadcrumbs {
+  margin-left: 70px;
+  color: #3fc9de;
+  font-size: 1.2em;
+}
+
+.box {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-right: 40px;
+  height: 160px;
+  width: 160px;
+  background-color: #eee;
+  float: left;
+}
+ 
+.box:hover {
+  border-width: 5px;
+  margin-bottom: 18px;
+  height: 152px;
+  width: 152px;
+  border-style: solid;
+  border-color: #22b2c8;
+} 

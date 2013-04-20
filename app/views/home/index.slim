@@ -9,7 +9,7 @@
     p.headline.darkgrey
       ' Create your own personalized "kit" that will help you take actionable steps to get started! 
   .span12.center.spacing
-    = link_to image_tag("button.png"), root_path, id: "logo"
+    = link_to image_tag("button.png"), :controller => "basics", :action => "index", id: "logo"
   .span12.spacing.grey
     .subtitle
       ' //What is a social enterpreneur?
