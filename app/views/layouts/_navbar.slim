@@ -1,5 +1,10 @@
 .navbar.navbar-fixed-top
   .navbar-inner
     .container
-      = link_to image_tag("socialkit_logo.png"), root_path, id: "logo"
+      span class="navlink" = link_to image_tag("socialkit_logo.png"), root_path, id: "logo"
+	  span class="navlink" = link_to "Community", :controller => "communities" 
+	  span class="navlink" = link_to "Resources", :controller => "resources" 
+	  span class="navlink" = link_to "Organization Types", :controller => "organizations" 
+	  
+	  
       = render :partial => 'layouts/login'          
