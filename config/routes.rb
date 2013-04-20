@@ -1,4 +1,13 @@
 SocialKit::Application.routes.draw do
+  resources :organizations
+
+
+  resources :resources
+
+
+  resources :communities
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
