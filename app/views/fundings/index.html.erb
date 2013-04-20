@@ -1,0 +1,21 @@
+<h1>Listing fundings</h1>
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @fundings.each do |funding| %>
+  <tr>
+    <td><%= link_to 'Show', funding %></td>
+    <td><%= link_to 'Edit', edit_funding_path(funding) %></td>
+    <td><%= link_to 'Destroy', funding, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Funding', new_funding_path %>

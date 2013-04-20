@@ -1,4 +1,16 @@
 SocialKit::Application.routes.draw do
+  resources :structures
+
+
+  resources :incentives
+
+
+  resources :fundings
+
+
+  resources :deductions
+
+
   resources :basics
 
 

@@ -1,0 +1,21 @@
+<h1>Listing incentives</h1>
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @incentives.each do |incentive| %>
+  <tr>
+    <td><%= link_to 'Show', incentive %></td>
+    <td><%= link_to 'Edit', edit_incentive_path(incentive) %></td>
+    <td><%= link_to 'Destroy', incentive, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Incentive', new_incentive_path %>
