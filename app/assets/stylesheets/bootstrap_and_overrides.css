@@ -22,6 +22,23 @@
 
 }
 
+.logo {
+  text-decoration: none;
+}
+
+.logo:hover {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+
 .subtitle {
   color: #3fc9de;
   font-size: 1.5em; 
@@ -129,6 +146,13 @@ a:hover {
 
 .capital {
   background-image:url('capital.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.grant {
+  background-image:url('grant.png');
   background-position: center;
   background-repeat: no-repeat;
 }
